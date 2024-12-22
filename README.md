@@ -26,3 +26,7 @@ To run the models, follow these steps:
 Install Abaqus: Ensure that Abaqus 2021 or a later version is installed.
 Download the Repository: Download the files from this repository.
 Open in Abaqus: Open the .cae files in Abaqus/CAE.
+
+
+<img src="https://github.com/mbtechlab/stretchable_meanders_modelling/blob/main/Modelinga1.png" alt="Modeling" width="500" />
+
